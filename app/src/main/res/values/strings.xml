@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A03Exercicio01</string>
+    <string name="valor_gasolina">Valor da gasolina:</string>
+    <string name="valor_alcool">Valor do alcool:</string>
+    <string name="calcular">calcular</string>
+    <string name="alcool_melhor">A melhor opção é abastecer com alcool</string>
+    <string name="gasolina_melhor">A melhor opção é abastecer com gasolina</string>
+</resources>
